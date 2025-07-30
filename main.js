@@ -208,7 +208,11 @@ document.addEventListener("keydown", (event)=> {
         PlayerDrop()
     }
 })
-//touch
+// Controles touch
+    document.getElementById("esquerda").onclick = () => PlayerMove(-1);
+    document.getElementById("direita").onclick = () => PlayerMove(1);
+    document.getElementById("baixo").onclick = () => PlayerDrop();
+    document.getElementById("cima").onclick = () => PlayerRotation();
 
 playerReset()
 updateScore()

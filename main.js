@@ -208,6 +208,7 @@ document.addEventListener("keydown", (event)=> {
         PlayerDrop()
     }
 })
+//touch
 
 playerReset()
 updateScore()

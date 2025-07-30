@@ -28,4 +28,4 @@ Este é um projeto simples do clássico jogo **Tetris**, feito com **HTML**, **C
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/FranFurlan/tetris-js.git
+   git clone https://github.com/DuduZeroDois/Tetris-Gera-o-Z.git

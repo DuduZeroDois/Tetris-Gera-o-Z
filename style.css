@@ -1,0 +1,32 @@
+body{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    user-select: none;
+}
+h1{
+    color: red;
+    font-size: 40px;
+}
+h1:hover{
+    color: rgb(255, 67, 67);
+}
+h5{
+    color: chartreuse;
+}
+canvas{
+    background-color: gray;
+    border: 1.5px solid lawngreen;
+}
+.btn{
+    margin-top: 10px;
+    background-color: orange;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: rgb(249, 187, 72);
+    font-size: 23px;
+}
